@@ -13,7 +13,6 @@ Small Business Network design using Cisco Packet Tracer. Features a single-switc
 ---
 
 ## 🛠️ Technical Implementation (Verified Evidence)
-* **Link Aggregation:** **EtherChannel** configured between distribution and access switches to prevent bottlenecks.
 * **Inter-VLAN Routing:** **Router-on-a-Stick** architecture using sub-interfaces for cross-VLAN communication.
 * **Layer 2 Segmentation:** Specific **VLANs** created to isolate departmental broadcast domains.
 * **Trunking:** **802.1Q** encapsulation active on all uplinks between the router and switches.
