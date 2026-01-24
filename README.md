@@ -35,7 +35,7 @@ Verification of the link aggregation. Multiple physical interfaces were combined
 
 | Port-Channel Summary | Trunking Status |
 |---|---|
-| ![EtherChannel Status](./05_etherchannel_summary.png) | ![Trunk Status](./04_trunk_config.png) |
+| ![EtherChannel Status](04_Vlan_Brief_SW.png) | ![Trunk Status](02_Switch_VLAN_Database.png) |
 *Figure: Evidence of operational EtherChannel and active Trunk links.*
 
 ---
@@ -43,7 +43,7 @@ Verification of the link aggregation. Multiple physical interfaces were combined
 ### 3. Layer 3 Routing (Inter-VLAN)
 Detailed view of the router's configuration, showing the sub-interfaces responsible for routing traffic between the segmented VLANs.
 
-![Router Config](./08_intervlan_routing.png)
+![Router Config](03_Router_Subinterfaces.png)
 *Figure: Router-on-a-Stick sub-interface configuration.*
 
 ---
@@ -51,7 +51,7 @@ Detailed view of the router's configuration, showing the sub-interfaces responsi
 ### 4. Connectivity Validation (End-to-End)
 Successful ICMP "Ping" tests proving that the static routing and VLAN tagging are correctly configured throughout the topology.
 
-![Connectivity Test](08_Test_connectivity_Ping_Others_Gateways.png) ![Connectivity Test](09_Test_connectivity_Ping_Others_Vlans.png) 
+![Connectivity Test](08_Test_connectivity_Ping_Others_Gateways.png) 
 *Figure: Final connectivity verification between different network segments.*
 
 ---
