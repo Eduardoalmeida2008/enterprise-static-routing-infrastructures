@@ -26,7 +26,7 @@ This project demonstrates the implementation of a segmented and high-performance
 ### 1. Network Topology
 The physical and logical layout of the network, showing the interconnection between hosts, switches, and the gateway.
 
-![Logical Topology](./01_logical_topology.png)
+![Logical Topology](01_Full_Network_Topology.png)
 
 ---
 
@@ -51,7 +51,7 @@ Detailed view of the router's configuration, showing the sub-interfaces responsi
 ### 4. Connectivity Validation (End-to-End)
 Successful ICMP "Ping" tests proving that the static routing and VLAN tagging are correctly configured throughout the topology.
 
-![Connectivity Test](./10_ping_test_success.png)
+![Connectivity Test](08_Test_connectivity_Ping_Others_Gateways.png) ![Connectivity Test](09_Test_connectivity_Ping_Others_Vlans.png) 
 *Figure: Final connectivity verification between different network segments.*
 
 ---
