@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-This project demonstrates the implementation of a segmented and high-performance local area network. The core objective was to organize the network into **VLANs** for logical isolation and implement **EtherChannel** to aggregate bandwidth between switches, providing a redundant and high-speed backbone for the infrastructure.
+Small Business Network design using Cisco Packet Tracer. Features a single-switch architecture with VLAN segmentation and Inter-VLAN routing (Router-on-a-Stick). Implements static IP planning and EtherChannel for optimized link performance.
 
 ---
 
