@@ -23,7 +23,7 @@ Small Business Network design using Cisco Packet Tracer. Features a single-switc
 ## 🖼️ Technical Documentation
 
 ### 1. Network Topology
-The physical and logical layout of the network, showing the interconnection between hosts, switches, and the gateway.
+The physical and logical layout of the network, showing the interconnection between hosts, switch, and the gateway.
 
 ![Logical Topology](01_Full_Network_Topology.png)
 
