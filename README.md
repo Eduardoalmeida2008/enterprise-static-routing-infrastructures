@@ -64,7 +64,7 @@ Successful ICMP "Ping" tests proving that the static routing and VLAN tagging ar
 
 ## 🚀 How to Run
 1. Open the `.pkt` file in **Cisco Packet Tracer**.
-2. Verify the **EtherChannel** status by checking the consolidated links between switches.
+2. Verify the **EtherChannel** status by checking the consolidated links between switch.
 3. Test connectivity by performing a ping between any two PCs in different VLANs to observe the **Router-on-a-Stick** functionality in action.
 
 ---
